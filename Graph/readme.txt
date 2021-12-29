@@ -1,4 +1,3 @@
-#2076016_곽서진
 [Decrease_Increase_Key.c]
 Min-heap에서 decrease-key와 increase-key 함수를 정의하는 프로그램
 
