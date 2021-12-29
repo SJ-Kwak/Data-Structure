@@ -1,4 +1,3 @@
-#2076016_곽서진
 [Successor.c]
 
 inorder traversal에서 node의 successor를 찾는 프로그램
