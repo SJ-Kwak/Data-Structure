@@ -1,4 +1,3 @@
-#2076016_곽서진
 [Transpose_matrix.c]
 
 rows*cols 크기의 SparseMatrix B를 입력받아 transpose matrix를 출력하는 프로그램
