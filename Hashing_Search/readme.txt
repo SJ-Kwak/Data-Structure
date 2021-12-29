@@ -1,4 +1,3 @@
-#2076016 곽서진
 [hash_chain.c]
 Hash table에서 chaining을 활용한 delete 함수를 구현한 프로그램
 
