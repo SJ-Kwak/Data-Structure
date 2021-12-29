@@ -1,4 +1,3 @@
-#2076016_곽서진
 [selection_sort.c]
 Selection sort 구현하는 프로그램
 
