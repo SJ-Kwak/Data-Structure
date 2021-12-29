@@ -1,8 +1,6 @@
 [Transpose_matrix.c]
 
 rows*cols 크기의 SparseMatrix B를 입력받아 transpose matrix를 출력하는 프로그램
-행렬 B를 scanf를 통해 입력받지 않고, main()함수에 정의되어 있는 SparseMatrix 구조체 변수 B의 값을 이용합니다.
-다른 행렬의 transpose matrix를 출력하고 싶다면 직접 main()함수의 B 값을 수정해주어야 합니다.
 
 1) typedef struct { } element;
 -row: non-zero element의 행 위치
@@ -29,7 +27,6 @@ output: return 값 없음
 [3D_array.c]
 
 double형 3차원 matrix 두 개의 메모리를 동적으로 할당하고, 두 matrix의 합을 계산하여 출력하는 프로그램
-scanf를 통해 따로 입력값을 받지 않고, 1~100까지의 정수 중 난수를 생성하여 matrix에 입력합니다.
 
 1) double*** mem_alloc_3D_double(int a, int b, int c)
 : 3차원 배열의 크기(a*b*c)만큼 메모리를 할당하는 함수
